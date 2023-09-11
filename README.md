@@ -1,6 +1,4 @@
 
-
-```markdown
 # Stripe Payment API in Go
 
 This is an example of a Go API that allows you to create a payment intent with Stripe. The API is configured to accept POST requests and responds with details about the created payment intent.
